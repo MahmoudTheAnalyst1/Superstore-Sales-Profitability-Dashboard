@@ -1,18 +1,34 @@
+
 # Superstore Sales & Profitability Analysis
 
 ## Project Overview
-This project presents an interactive Power BI dashboard designed to analyze Superstore sales and profitability, identify business trends, and provide actionable insights to support better decision-making.
+An interactive Power BI project focused on analyzing Superstore sales and profitability, identifying business trends, and providing actionable insights to support better business decisions.
 
 ## Dashboard Preview
 
-![Superstore Dashboard](images/Untitled%20design.png)
+### Main Dashboard
+![Main Dashboard](images/images/images/Untitled%20design.png)
 
-## Key Analysis
-- Sales Performance Analysis
-- Profitability Analysis
-- Category and Sub-Category Analysis
-- Regional Sales Performance
-- Business Insights and Strategic Recommendations
+### Sales Analysis
+![Sales Analysis](images/images/images/Untitled%20design%20(1).png)
+
+### Profitability Analysis
+![Profitability Analysis](images/images/images/Untitled%20design%20(2).png)
+
+### Dashboard Page 4
+![Dashboard Page 4](images/images/images/Untitled%20design%20(3).png)
+
+### Dashboard Page 5
+![Dashboard Page 5](images/images/images/Untitled%20design%20(4).png)
+
+### Dashboard Page 6
+![Dashboard Page 6](images/images/images/Untitled%20design%20(5).png)
+
+### Dashboard Screenshot 1
+![Dashboard Screenshot 1](images/images/images/Screenshot%202026-11-08%20044232.png)
+
+### Dashboard Screenshot 2
+![Dashboard Screenshot 2](images/images/images/Screenshot%202026-11-08%20044307.png)
 
 ## Tools & Technologies
 - Power BI
@@ -20,3 +36,10 @@ This project presents an interactive Power BI dashboard designed to analyze Supe
 - DAX
 - Data Analysis
 - Data Visualization
+
+## Key Analysis
+- Sales Performance
+- Profitability Analysis
+- Category and Sub-Category Performance
+- Regional Analysis
+- Strategic Recommendations
